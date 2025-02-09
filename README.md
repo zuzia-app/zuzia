@@ -43,7 +43,7 @@ Zuzia.app is a powerful, yet simple **uptime monitoring and automation tool** de
 
 💡 **Have questions or need help? Join our community!**  
 
-📢 **GitHub Issues:** [Report bugs & request features](https://github.com/zuzia-app/zuzia/issues/new)  
+📢 **GitHub Issues:** [Report bugs & request features](https://github.com/zuzia-app/zuzia/issues/new?template=bug_report.md)  
 📧 **Support Email:** [support@zuzia.app](mailto:support@zuzia.app)  
 
 🌍 **Follow us on social media for updates & tips:**
