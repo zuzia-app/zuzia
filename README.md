@@ -1,4 +1,4 @@
-# 🚀 Zuzia.app – AI-Powered Website & Server Monitoring  
+# 🚀 zuzia.app – AI-Powered Website & Server Monitoring  
 
 **Stay online, stay ahead.** Monitor your website uptime, automate tasks, and receive **AI-powered alerts** instantly.  
 
@@ -47,7 +47,8 @@ Zuzia.app is a powerful, yet simple **uptime monitoring and automation tool** de
 📧 **Support Email:** [support@zuzia.app](mailto:support@zuzia.app)  
 
 🌍 **Follow us on social media for updates & tips:**
-**Twitter** → [https://x.com/zuzia_app](https://x.com/zuzia_app)
+
+**Twitter** → [https://x.com/zuzia_app](https://x.com/zuzia_app)  
 **Facebook** → [https://www.facebook.com/profile.php?id=61561388228357](https://www.facebook.com/profile.php?id=61561388228357)  
 
 
