@@ -35,7 +35,7 @@ Zuzia.app is a powerful, yet simple **uptime monitoring and automation tool** de
 ## 🚀 Getting Started  
 
 ### 🔹 1. Sign Up & Add a Website  
-1️⃣ **Create a free account** → [https://my.zuzia.app/login](https://my.zuzia.app/login)  
+1️⃣ **Create a free account** → [https://my.zuzia.app/register](https://my.zuzia.app/register)  
 2️⃣ **Add your website or server** to start tracking uptime.  
 3️⃣ **Configure alert settings** for instant notifications.
 
@@ -46,8 +46,8 @@ Zuzia.app is a powerful, yet simple **uptime monitoring and automation tool** de
 📢 **GitHub Issues:** [Report bugs & request features](#)  
 📧 **Support Email:** [support@zuzia.app](mailto:support@zuzia.app)  
 
-🌍 **Follow us on social media for updates & tips:**  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zuzia_app)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61561388228357)  
+🌍 **Follow us on social media for updates & tips:**
+**Twitter** → [https://x.com/zuzia_app](https://x.com/zuzia_app)
+**Facebook** → [https://www.facebook.com/profile.php?id=61561388228357](https://www.facebook.com/profile.php?id=61561388228357)  
 
 
