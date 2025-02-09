@@ -34,7 +34,7 @@ Zuzia.app is a powerful, yet simple **uptime monitoring and automation tool** de
 
 ## 🚀 Getting Started  
 
-### 🔹 1. Sign Up & Add a Website  
+### 🔹 Sign Up & Add a Website  
 1️⃣ **Create a free account** → [https://my.zuzia.app/register](https://my.zuzia.app/register)  
 2️⃣ **Add your website or server** to start tracking uptime.  
 3️⃣ **Configure alert settings** for instant notifications.
